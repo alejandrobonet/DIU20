@@ -1,17 +1,17 @@
 # DIU20
 Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
 
-Grupo: DIU1_01AABB.  Curso: 2019/20 
+Grupo: DIU3_BNET.  Curso: 2019/20 
 
-Proyecto: 
+Proyecto: EventWORLD
 
-Descripción: 
+Descripción: Aplicación de búsqueda y recomendación de todo tipo de eventos en distintas ciudades de Europa
 
 Logotipo: 
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Alejandro Bonet Medina    :octocat:     
+
 
 ----- 
 
