@@ -37,7 +37,10 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 >>> Carlos es un joven que acaba de llegar a su nueva ciudad después de haber aprobado sus oposiciones de funcionario, al ser una persona joven está acostumbrado a las tecnologías y lleva su móvil siempre encima. En cuanto a su personalidad destacar que es una persona activa que le gusta aprovechar su tiempo libre.
 
+
 >>> María Angustias es una jubilada muy simpática muy cercana a su familia. Al ser de una edad avanzada le cuesta manejarse por las nuevas tecnologías porque para ella es algo totalmente nuevo y no esta acostumbrada.
+
+
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
