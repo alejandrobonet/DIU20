@@ -93,7 +93,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 
 **Sitemap**  
-![Sitemap](P2/Arquitectura de la app.png)
+![Sitemap](P2/arquitectura.png)
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
