@@ -109,17 +109,53 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 | Mis datos           | Muestra los datos de nuestro perfil. Desde aquí es posible modificarlos Contactar Formulario para contactar con                         un administrador Reserva Formulario de reserva de un evento                                                    |
 
 
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
-
-
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
+<div align="center">
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+**Ajustes**  
+![Sitemap](P2/Ajustes.jpg)  
+<br>
+
+**Búsqueda**  
+![Sitemap](P2/Busqueda.jpg)  
+<br>
+
+**Contactar**  
+![Sitemap](P2/Contactar.jpg)  
+<br>
+
+**Evento**  
+![Sitemap](P2/Evento_seleccionado.jpg)  
+<br>
+
+**Historial**  
+![Sitemap](P2/Historial_eventos.jpg)  
+<br>
+
+**Modificar Datos**  
+![Sitemap](P2/Modificar_datos.jpg)  
+<br>
+
+**Perfil Inicio sesión**  
+![Sitemap](P2/Perfil_Iniciasesion.jpg)  
+<br>
+
+**Perfil**  
+![Sitemap](P2/Perfil_usuarioregistrado.jpg)  
+<br>
+
+**Recomendados**  
+![Sitemap](P2/Recomendados.jpg)  
+<br>
+
+**Valoraciones**  
+![Sitemap](P2/Valoraciones.jpg)  
+<br>
+
+**Home**  
+![Sitemap](P2/home.jpg)  
+</div>
 
 
 ## Paso 3. Make (Prototyping) 
