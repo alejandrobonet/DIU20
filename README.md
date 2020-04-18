@@ -30,26 +30,23 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> Como formo parte del grupo DIU3 mi web/app debe de estar relacionado con experiencias de compartir ocio. He decidido desarrollar una página web donde se compartan distintos eventos, cursos y excursiones y lugares a visitar de las principales ciudades de España, se podría ampliar a otros países con sus respectivas ciudades conforme vaya evolucionando la web. 
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> Carlos es un joven que acaba de llegar a su nueva ciudad después de haber aprobado sus oposiciones de funcionario, al ser una persona joven está acostumbrado a las tecnologías y lleva su móvil siempre encima. En cuanto a su personalidad destacar que es una persona activa que le gusta aprovechar su tiempo libre.
 
+María Angustias es una jubilada muy simpática muy cercana a su familia. Al ser de una edad avanzada le cuesta manejarse por las nuevas tecnologías porque para ella es algo totalmente nuevo y no esta acostumbrada.
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> En el primer mapa de experiencia a Carlos no le importa que hacer así que no le cuesta mucho trabajo decidirse en la actividad a realizar, sin embargo si la web tuviese un foro de opiniones lo mismo Carlos hubiese escogido una actividad distinta según la opinión de otros usuarios. En cuanto al mapa de experiencia de María Angustias podemos ver como al ser una persona mayor su primera idea no es buscar por Internet. Además a la hora de navegar necesita ayuda, por lo que podemos pensar que nuestra página no es tan usable ni accesible para este tipo de personas.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>>  trás completar el Usability Review hemos obtenido una puntuación de 72 (GOOD). La página tiene una estructura muy sencilla, una pagina inicial con un listado de eventos de tu zona actual y un buscador por palabras claves y filtrado. El buscador es bastante intuitivo sin embargo para una persona novata quizás no logre a ver como funcionan los filtros o ni si quiera saber que están ahí. Al seleccionar un evento nos muestra información en un lenguaje conciso y sencillo y un contenido multimedia que complementa la información. Algunos eventos se tiene que reservar, nos aparece un boton bastante visible para reservar, sin embargo a la hora de reservar puede llegar a ser lioso para gente sin experiencia ya que son muchos pasos y datos los que tienes que poner. Al ser una pagina bastante sencilla su navegación es bastante fácil y la visión del contenido también quizás por eso no se tenga en cuenta añadir ayuda en linea. Es probable que la ayuda en linea le sea de bastante utilidad a personas sin experiencias que no sepan naveg
 
 
 ## Paso 2. UX Design  
@@ -59,19 +56,15 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
+ Interesante                         | Críticas
+  Búsquedas fáciles de realizar
+| -----------------------------      | -------
+  Preguntas                          | Nuevas ideas
   
   
   
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+>>> En la anterior practica había pensando en un diseño web sin embargo para esta practica como el diseño del servicio está basado en una aplicación móvil. En cuanto a la practica anterior se mejora en varios aspectos como la usabilidad, mejor apariencia y mas servicios como el poder tener una cuenta propia donde poner comentarios y poder gestionar tu perfil proporcionando así una gestión más personalizada de la aplicación mejorando también la experiencia social del usuario. En primer lugar basándome en los actores y escenarios de la practica anterior, he expresado una malla receptora de opinión. Por otro lado, se han enumerado las tareas y el uso que los distintos usuarios les dan a dichas tareas utilizando una matriz de tareas usuarios. En cuanto al diseño de la aplicación en primer lugar se ha recogido la información mediante una estructura de la arquitectura del sistema. Una vez obtenida dicha arquitectura he realizado los bocetos de la aplicación en papel. Los bocetos no los incluyo en este pdf; estarán en la carpeta para que se puedan ver mejor.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
