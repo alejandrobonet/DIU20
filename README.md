@@ -93,10 +93,20 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 
 **Sitemap**  
-![Sitemap](P2/arquitectura.png)
+![Sitemap](P2/arquitectura.PNG)
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
+| Etiqueta            | Nota                                                                                                           |
+|---------------------|----------------------------------------------------------------------------------------------------------------|
+| Evento Seleccionado | Cuando seleccionamos un evento se nos abre esta pagina que nos muestra una descripción con fotografiás del                               evento así como características que sirven para identificar al evento en las búsquedas. También podremos ver en                         algunos casos de eventos no temporales valoraciones de otros usuarios. También en los casos donde haya que                               reservar el evento nos aparece la opción de reservarlo.                                                        |
+| Búsqueda            | Nos encontramos una barra de búsqueda con diferentes opciones para filtrar la búsqueda                         |
+| Ajustes             | En los ajustes podremos cambiar el idioma de la aplicación. Cambien nos mostrara información de la aplicación y                         una forma de contactar con el administrador                                                                    |
+| Recomendaciones     | En esta sección aparecerán eventos de la misma manera que en el inicio, solo que esta vez serán recomendaciones                         basándose en nuestro historial de búsqueda y en nuestros datos de perfil.                                      |
+| Perfil              | En nuestro perfil nos aparecerá arriba un símbolo de engranaje para ir a los ajustes de la aplicación, nuestro                           historial y nuestros datos. Si el usuario aun no esta logeado se muestra un inicio de sesión.                  |
+| Mi historial        | Muestra el historial del usuario de eventos pagados.                                                           |
+| Mis valoraciones    | Muestra las valoraciones publicadas por el usuario.                                                            |
+| Mis datos           | Muestra los datos de nuestro perfil. Desde aquí es posible modificarlos Contactar Formulario para contactar con                         un administrador Reserva Formulario de reserva de un evento                                                    |
 
 
 >>> Identificar términos para diálogo con usuario  
