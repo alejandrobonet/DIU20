@@ -1,5 +1,4 @@
-# DIU20
-Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
+# EventWORLD
 
 Grupo: DIU3_BNET.  Curso: 2019/20 
 
@@ -13,14 +12,7 @@ Miembros
  * :bust_in_silhouette:   Alejandro Bonet Medina    :octocat:     
 
 
------ 
 
-En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) 
-
-
-Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. 
 
 
 # Proceso de Diseño 
