@@ -60,42 +60,10 @@ Usability Review
 
 Una vez completados los primeros pasos del diseño relalizamos el primer Usability Review.Inicialmente se realizó para un portal web pero más tarde se rediseñó para una aplicación móvil como veremos más adelante. Trás completar el Usability Review se obtuvo una puntuación de 72 (GOOD). La página tiene una estructura muy sencilla, una pagina inicial con un listado de eventos de tu zona actual y un buscador por palabras claves y filtrado. El buscador es bastante intuitivo sin embargo para una persona novata quizás no logre a ver como funcionan los filtros o ni si quiera saber que están ahí. Al seleccionar un evento nos muestra información en un lenguaje conciso y sencillo y un contenido multimedia que complementa la información. Algunos eventos se tiene que reservar, nos aparece un boton bastante visible para reservar, sin embargo a la hora de reservar puede llegar a ser lioso para gente sin experiencia ya que son muchos pasos y datos los que tienes que poner. Al ser una pagina bastante sencilla su navegación es bastante fácil y la visión del contenido también quizás por eso no se tenga en cuenta añadir ayuda en linea. Es probable que la ayuda en linea le sea de bastante utilidad a personas sin experiencias que no sepan navegar.
 
-# Proceso de Diseño 
-
-## Paso 1. UX Desk Research & Analisis 
-
-![Método UX](img/Competitive.png) 1.a Competitive Analysis
------
-
->>> Como formo parte del grupo DIU3 mi web/app debe de estar relacionado con experiencias de compartir ocio. He decidido desarrollar una página web donde se compartan distintos eventos, cursos y excursiones y lugares a visitar de las principales ciudades de España, se podría ampliar a otros países con sus respectivas ciudades conforme vaya evolucionando la web. 
-
-![Método UX](img/Persona.png) 1.b Persona
------
-
->>> Carlos es un joven que acaba de llegar a su nueva ciudad después de haber aprobado sus oposiciones de funcionario, al ser una persona joven está acostumbrado a las tecnologías y lleva su móvil siempre encima. En cuanto a su personalidad destacar que es una persona activa que le gusta aprovechar su tiempo libre.
 
 
->>> María Angustias es una jubilada muy simpática muy cercana a su familia. Al ser de una edad avanzada le cuesta manejarse por las nuevas tecnologías porque para ella es algo totalmente nuevo y no esta acostumbrada.
 
-
-![Método UX](img/JourneyMap.png) 1.c User Journey Map
-----
-
-
->>> En el primer mapa de experiencia a Carlos no le importa que hacer así que no le cuesta mucho trabajo decidirse en la actividad a realizar, sin embargo si la web tuviese un foro de opiniones lo mismo Carlos hubiese escogido una actividad distinta según la opinión de otros usuarios. En cuanto al mapa de experiencia de María Angustias podemos ver como al ser una persona mayor su primera idea no es buscar por Internet. Además a la hora de navegar necesita ayuda, por lo que podemos pensar que nuestra página no es tan usable ni accesible para este tipo de personas.
-
-![Método UX](img/usabilityReview.png) 1.d Usability Review
-----
->>>  Trás completar el Usability Review hemos obtenido una puntuación de 72 (GOOD). La página tiene una estructura muy sencilla, una pagina inicial con un listado de eventos de tu zona actual y un buscador por palabras claves y filtrado. El buscador es bastante intuitivo sin embargo para una persona novata quizás no logre a ver como funcionan los filtros o ni si quiera saber que están ahí. Al seleccionar un evento nos muestra información en un lenguaje conciso y sencillo y un contenido multimedia que complementa la información. Algunos eventos se tiene que reservar, nos aparece un boton bastante visible para reservar, sin embargo a la hora de reservar puede llegar a ser lioso para gente sin experiencia ya que son muchos pasos y datos los que tienes que poner. Al ser una pagina bastante sencilla su navegación es bastante fácil y la visión del contenido también quizás por eso no se tenga en cuenta añadir ayuda en linea. Es probable que la ayuda en linea le sea de bastante utilidad a personas sin experiencias que no sepan navegar
-
-![Método UX](img/feedback-capture-grid.png) Feedback Capture Grid
-----
-
-
-## Paso 2. UX Design  
-
-
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
+![Método UX](img/feedback-capture-grid.png)  Feedback Capture Grid
 ----
 
 Puntos positivos: Búsquedas fáciles de realizar.Interfaz intuitiva/fácil de manejar para una persona con un mínimo de experiencia. Contenido multimedia que mejora la interfaz de la pagina así como completar la información.
@@ -161,48 +129,69 @@ Aqui esta el sitemap que nos muestra la arquitectura de la aplicación.
 -----
 <div align="center">
 
-**Ajustes**  
-![Ajustes](P2/Ajustes.jpg)  
+
+**Inicio**
+El menú principal de nuestra aplicación donde nos aparecen tantos eventos promocionados como mejores valorados. Para seguir viendo eventos se debe desilzar a la izquierda.
+![home](P2/home.jpg)  
 <br>
 
+
 **Búsqueda**  
+Interfaz de búsqueda donde a partir de palabras clave o filtrado podemos buscar los eventos que queramos. Al realizar la búsqueda se mostraran miniaturas de eventos verticalmente.
 ![Busqueda](P2/Busqueda.jpg)  
 <br>
 
-**Contactar**  
-![Contactar](P2/Contactar.jpg)  
-<br>
-
 **Evento**  
+Cuando pinchamos en un evento aparece esta interfaz donde nos muestran fotos, descripción, valoraciones y otras características.Además en algunos casos incluye la posibilidad de reservar.
 ![Evento_seleccionado](P2/Evento_seleccionado.jpg)  
 <br>
 
-**Historial**  
-![Historial_eventos](P2/Historial_eventos.jpg)  
+**Valoraciones** 
+Nos muestra las valoraciones de distintos usuarios, con un texto expandible y una calificación.
+![Valoraciones](P2/Valoraciones.jpg)  
 <br>
 
-**Modificar Datos**  
-![Modificar_datos](P2/Modificar_datos.jpg)  
-<br>
 
 **Perfil Inicio sesión**  
+Al irnos a la sección de perfil si aun no estamos logeados nos aparecerá esta interfaz donde podemos logearnos con Google, Facebook o con nuestro usuario y contraseña. También esta la posibilidad de registrarse si aún no se esta registrado
 ![Perfil_Iniciasesion](P2/Perfil_Iniciasesion.jpg)  
 <br>
 
 **Perfil**  
+Al irnos a la sección de perfil si estamos logeados aparecerá nuestro perfil con nuestros datos , valoraciones, historial y la posibilidad de modificar nuestros datos
 ![Perfil_usuarioregistrado](P2/Perfil_usuarioregistrado.jpg)  
 <br>
 
-**Recomendados**  
+**Historial**  
+El historial de compras
+![Historial_eventos](P2/Historial_eventos.jpg)  
+<br>
+
+**Modificar Datos**  
+
+![Modificar_datos](P2/Modificar_Datos.jpg)  
+<br>
+
+**Ajustes**  
+En los ajustes encontramos la posibilidad de cambiar el idioma, activar las notificaciones y contactar mediante un formulario con un administrador. Además tambien aparece un pequeño texto que describe al equipo de trabajo. En una futuro diseño es posible que se añada la opción de modo nocturno
+
+![Ajustes](P2/Ajustes.jpg)  
+<br>
+
+**Contactar**  
+Este es el formulario que hay que rellenar para contactar con un administrador. En el caso en el que el ususario no este logeado deberia incluir su correo electrónico y su nombre
+![Contactar](P2/Contactar.jpg)  
+<br>
+
+**Recomendados** 
+Lasección de recomendados es similar a la de Inicio pero con distintos eventos.
 ![Recomendados](P2/Recomendados.jpg)  
 <br>
 
-**Valoraciones**  
-![Valoraciones](P2/Valoraciones.jpg)  
-<br>
 
-**Home**  
-![home](P2/home.jpg)  
+
+
+
 </div>
 
 
