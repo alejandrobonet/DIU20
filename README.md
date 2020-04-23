@@ -1,28 +1,54 @@
 # EventWORLD
 
-Grupo: DIU3_BNET.  Curso: 2019/20 
-
-Proyecto: EventWORLD
-
-Descripción: Aplicación de búsqueda y recomendación de todo tipo de eventos en distintas ciudades de Europa
-
-Logotipo: 
-
-Miembros
- * :bust_in_silhouette:   Alejandro Bonet Medina    :octocat:     
-
-
-
 Para aquellos pequeños aventureros que estan cansados de la monotomía y quieren conocer nuevas experiencias
 
 # Introducción
 Para aquellos pequeños aventureros que estan cansados de la monotomía y quieren conocer nuevas experiencias aparece WorldEvenT. Una aplicación que nos servirá tanto de guía para nuestros viajes como para para encontrar nuevas aficiones o simplemente despejarnos del estrés diario por nuestra zona.
 
-### Oportunidad
+Miembros del equipo: Alejandro Bonet Medina
+Nombre del equipo: DIU3_BNET
+
+Oportunidad
+-----
 Estamos en un mundo globalizado en el que la socialización y el turismo son factores importantes que hacen que en cualquier pequeño rincón del mundo se organicen eventos para todo tipo de personas. Normalmente conoces estos eventos a través de otras personas, por medios de comunicación o buscando detenidamente por la red, es por eso que nace esta aplicación que de manera sencilla y organizada nos permitirá conocer todo lo que pasa en cualquier lugar de Europa.
 
+Analísis de nuestros usuarios
+-----
+Para realizar un buen diseño de la aplicación es necesario pensar en primer lugar que tipos de usuarios van hacer uso de esta.
+
+La aplicación está dirigida a todos aquellos usaurios que busquen alguna de las siguientes necesidades:
+
+El usuario quiere conocer nuevos lugares de su zona.
+El usuario busca nuevos hobbies.
+El usuario realizá viajes turisticos muy completos.
+El usuario quiere disfrutar de sus tiempo libre.
+El usuario quiere conocer a fondo la cultura de otros paises.
+El usuario quiere realizar alguna actividad con otro/s usuario/s de su entorno.
+
+Aplicaciones similares
+---
+Una aplicación bastante similar a la nuestra sería Fever. Esta aplicación nos muestra eventos tanto culturales como sociales o inclusos cursos online y presenciales. También incluye busqueda por filtros, la posibilidad de compartir con tus amigos, reservas o compras online. Sin embargo no te recomienda eventos según tu perfil y busqueda, esta caraterística si la incluimos en nuestra aplicación ya que nos parece bastante interesante y podría mejorar la experiencia del usuario.
+
+Una aplicación también parecida es TripAdvisor solo que en esta en lugar de eventos trata de hoteles, vuelos, restaurantes; pero tiene una funcionalidad parecida en la que incluye valoraciones, opiniones y recomendaciones.
+
+![Método UX](img/Persona.png) Persona
+-----
+
+Hemos creado dos personas de características diferentes para obtener más puntos de vista y distintos  problemas para cada ususario.
+
+Nuestra primera persona es Carlos. Carlos es un joven que acaba de llegar a su nueva ciudad después de haber aprobado sus oposiciones de funcionario, al ser una persona joven está acostumbrado a las tecnologías y lleva su móvil siempre encima. En cuanto a su personalidad destacar que es una persona activa que le gusta aprovechar su tiempo libre.
+
+![Journey Map Carlos](img/1.jpg)
+
+Nuestra segunda persona es María. María Angustias es una jubilada muy simpática muy cercana a su familia. Al ser de una edad avanzada le cuesta manejarse por las nuevas tecnologías porque para ella es algo totalmente nuevo y no esta acostumbrada.
+
+![Journey Map María](img/2.jpg)
 
 
+En el primer mapa de experiencia a Carlos no le importa que hacer así que no le cuesta mucho trabajo decidirse en la actividad a realizar, sin embargo si la web tuviese un foro de opiniones recomendaciones es posible que  Carlos hubiese escogido una actividad distinta. En cuanto al mapa de experiencia de María Angustias podemos ver como al ser una persona mayor su primera idea no es buscar por Internet. Además a la hora de navegar necesita ayuda
+
+![Journey Map Carlos](img/perosna1.jpg)
+![Journey Map María](img/persona2.jpg)
 
 # Proceso de Diseño 
 
