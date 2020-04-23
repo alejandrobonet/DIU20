@@ -13,6 +13,15 @@ Miembros
 
 
 
+Para aquellos pequeños aventureros que estan cansados de la monotomía y quieren conocer nuevas experiencias
+
+# Introducción
+Para aquellos pequeños aventureros que estan cansados de la monotomía y quieren conocer nuevas experiencias aparece WorldEvenT. Una aplicación que nos servirá tanto de guía para nuestros viajes como para para encontrar nuevas aficiones o simplemente despejarnos del estrés diario por nuestra zona.
+
+### Oportunidad
+Estamos en un mundo globalizado en el que la socialización y el turismo son factores importantes que hacen que en cualquier pequeño rincón del mundo se organicen eventos para todo tipo de personas. Normalmente conoces estos eventos a través de otras personas, por medios de comunicación o buscando detenidamente por la red, es por eso que nace esta aplicación que de manera sencilla y organizada nos permitirá conocer todo lo que pasa en cualquier lugar de Europa.
+
+
 
 
 # Proceso de Diseño 
