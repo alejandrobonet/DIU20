@@ -38,17 +38,17 @@ Hemos creado dos personas de características diferentes para obtener más punto
 
 Nuestra primera persona es Carlos. Carlos es un joven que acaba de llegar a su nueva ciudad después de haber aprobado sus oposiciones de funcionario, al ser una persona joven está acostumbrado a las tecnologías y lleva su móvil siempre encima. En cuanto a su personalidad destacar que es una persona activa que le gusta aprovechar su tiempo libre.
 
-![Journey Map Carlos](img/1.jpg)
+![Journey Map Carlos](img/1.PNG)
 
 Nuestra segunda persona es María. María Angustias es una jubilada muy simpática muy cercana a su familia. Al ser de una edad avanzada le cuesta manejarse por las nuevas tecnologías porque para ella es algo totalmente nuevo y no esta acostumbrada.
 
-![Journey Map María](img/2.jpg)
+![Journey Map María](img/2.PNG)
 
 
 En el primer mapa de experiencia a Carlos no le importa que hacer así que no le cuesta mucho trabajo decidirse en la actividad a realizar, sin embargo si la web tuviese un foro de opiniones recomendaciones es posible que  Carlos hubiese escogido una actividad distinta. En cuanto al mapa de experiencia de María Angustias podemos ver como al ser una persona mayor su primera idea no es buscar por Internet. Además a la hora de navegar necesita ayuda
 
-![Journey Map Carlos](img/perosna1.jpg)
-![Journey Map María](img/persona2.jpg)
+![Journey Map Carlos](img/perosna1.PNG)
+![Journey Map María](img/persona2.PNG)
 
 # Proceso de Diseño 
 
