@@ -71,6 +71,9 @@ Página de mantenimiento
 ---
 En los casos que alguna funcionalidad no este disponible por mantenimiento sería conveniente que existiese un diseño para que el ususario estuviese informado. El diseño sería utilizando los colores de la aplicación  y mostrando  un mensaje donde se informase del motivo de su no funcionamiento.
 
+# Historia
+https://www.youtube.com/watch?v=Kv3UdqvdlPM
+
 # Valoración práctica
 En esta práctica hemos podido analizar otra aplicación así como sus métodos	UX. Con esto hemos visto la similitud en algunos aspectos a nuestra práctica y también otras maneras de realizar los casos UX.
 
