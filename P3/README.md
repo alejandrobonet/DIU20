@@ -1,4 +1,4 @@
-### Analisis MuseMap
+# Analisis MuseMap
 
 En este articulo dedicado al desarrollo de la aplicación MuseMap en primer lugar nos explica unas pequeñas ideas como introducción a la aplicación  y el objetivo/motivación de esta. Además también nos encontramos con un análisis del usuario al que va dirigida esta aplicación y el contexto en el que esta aplicación podría ser usada. Toda esta información facilita el proceso de diseño  ya que nos sirve como primera aproximación.
 
@@ -21,7 +21,7 @@ En cuanto a la forma de explicarnos todo el proceso me ha parecido bastante intu
 
 
 
-### Patrones de diseño y guidelines 
+# Patrones de diseño y guidelines 
 
 En el guion se nos proporcionan distintos enlaces para el diseño  de patrones y guiás de nuestra aplicación. Con https://fontawesome.com/  podemos observar distintos iconos que le darán a la aplicación un mejor aspecto visual con iconos. 
 En cuanto el diseño siguiendo la página https://www.smashingmagazine.com/web-design-essentials-examples-and-best-practices/  podremos encontrar buenas ideas para mejorar nuestro diseño o encontrar otro tipo de diseño para usarlos en el caso de tener que rediseñar la App.
@@ -69,7 +69,7 @@ Página de mantenimiento
 ---
 En los casos que alguna funcionalidad no este disponible por mantenimiento sería conveniente que existiese un diseño para que el ususario estuviese informado. El diseño sería utilizando los colores de la aplicación  y mostrando  un mensaje donde se informase del motivo de su no funcionamiento.
 
-### Valoración práctica
+# Valoración práctica
 En esta práctica hemos podido analizar otra aplicación así como sus métodos	UX. Con esto hemos visto la similitud en algunos aspectos a nuestra práctica y también otras maneras de realizar los casos UX.
 
 En el apartado de propuestas de diseño he aprendido nuevos aspectos que añadir a mi aplicación para darle un mejor  diseño, asi como otros que en mi caso no he utilizado pero son interesantes.
