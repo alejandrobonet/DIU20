@@ -36,6 +36,8 @@ Buscar: https://fontawesome.com/icons/search?style=solid
 Recomendados: https://fontawesome.com/icons/star?style=solid 
 Perfil: https://fontawesome.com/icons/user?style=solid 
 
+Tambien añadir el icono de ajustes: https://fontawesome.com/icons/cog?style=solid
+
 Se puede observar como los iconos son de un estilo similar para que quede bien visualmente.
 
 Botones de llamada de acción
