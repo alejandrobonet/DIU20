@@ -3,7 +3,7 @@
 Para aquellos pequeños aventureros que estan cansados de la monotomía y quieren conocer nuevas experiencias
 
 # Introducción
-Para aquellos pequeños aventureros que estan cansados de la monotomía y quieren conocer nuevas experiencias aparece WorldEvenT. Una aplicación que nos servirá tanto de guía para nuestros viajes como para para encontrar nuevas aficiones o simplemente despejarnos del estrés diario por nuestra zona.
+Para aquellos pequeños aventureros que estan cansados de la monotomía y quieren conocer nuevas experiencias aparece EventWORLD. Una aplicación que nos servirá tanto de guía para nuestros viajes como para para encontrar nuevas aficiones o simplemente despejarnos del estrés diario por nuestra zona.
 
 Miembros del equipo: Alejandro Bonet Medina
 Nombre del equipo: DIU3_BNET
